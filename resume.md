@@ -63,7 +63,7 @@ _July 2011- June 2014_
 
  Member of the Miller lab where I investigated Rho-GTPase regulation of cell division using _Xenopus laevis_. I utilized live and fixed cell imaging, protein interaction assays, and microtubule manipulations to study Centralspindlin localization at the equatorial cell cortex.
 
- #### Experience   
+#### Experience   
 * Pioneered various unpublished techniques including monopolar spindle generation in an intact cell epithelium and GST pulldowns with _X. laevis_ embryos.
 * Maintained lab inventories and responsible for lab ordering and supply tracking.
 
