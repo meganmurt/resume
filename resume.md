@@ -10,7 +10,7 @@ feketemegan@gmail.com
 ## Summary
 I am extensively trained in molecular and cell biology techniques with over nine years of experience in research laboratories. I have served roles such as senior level research associate, technician, and lab manager and I have worked in both in academic and start-up biotechnology lab environments.  I have a drive to accomplish high quality research and have never shied from complicated techniques.
 
- ## Research Skills
+## Research Skills
 * Immunoblotting  (SDS-PAGE and Western blotting)
 * _in vitro_ protein translation and assays                          
 * _in vivo_ recombinant protein generation, purification, and analysis
@@ -95,7 +95,7 @@ Presented research on microtubule dynamics at the central spindle at the Univers
 
  Presented poster of college thesis “Comparisons of sequences and mRNA levels of two class II peroxidases in _Arabidopsis thaliana_, _Brassica rapa_, and _Alliaria petiolata_” at the American Society of Plant Biologists (ASPB) meeting in Merida, Mexico (July 2008)  
 
- ### Technical Skills
+### Technical Skills
 
 * Adobe Illustrator, Microsoft Office (Word, Excel, Powerpoint) and Google Apps
 * Velocity Imaging Software, ImageJ, and Cn3D
